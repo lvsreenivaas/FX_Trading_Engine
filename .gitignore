@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data_raw/
+*.parquet
+*.csv
+reports/
+.DS_Store
+EOF
+
